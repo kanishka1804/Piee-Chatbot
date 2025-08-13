@@ -1,4 +1,4 @@
-# Piee - AI Chatbot with Groq Integration
+# Piee - AI Chatbot
 
 A beautiful chatbot powered by fast AI models, with web search capabilities via Tavily.
 
