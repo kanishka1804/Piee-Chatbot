@@ -7,7 +7,7 @@ A beautiful chatbot powered by fast AI models, with web search capabilities via 
 - 🤖 **Multiple AI Models**: Choose between Llama 3.3 70B (Groq) and GPT-4o Mini (OpenAI)
 - 🔍 **Web Search**: Real-time information via Tavily Search API
 - 🌻 **Friendly Personality**: Meet Piee, your warm and helpful AI companion
-- ⚡ **Fast Responses**: Powered by Groq's lightning-fast inference
+- ⚡ **Fast Responses**: Powered by lightning-fast inference
 - 📱 **Responsive Design**: Beautiful UI that works on all devices
 - 🔒 **Secure**: API keys stored in environment variables
 
